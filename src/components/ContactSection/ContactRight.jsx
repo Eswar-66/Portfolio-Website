@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactInfo from './ContactINfo'
+import ContactInfo from './ContactInfo'
 import ContactSocial from './ContactSocial'
 
 const ContactRight = () => {
